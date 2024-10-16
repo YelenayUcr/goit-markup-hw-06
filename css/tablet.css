@@ -1,0 +1,131 @@
+@media screen and (min-width: 768px) and (max-width: 1158px) {
+    header {
+        width: 100%;
+        height: 72px;
+    }
+
+    .header-list {
+        width: 100%;
+    }
+
+    .container {
+        max-width: 768px;
+        width: 100%;
+    }
+
+    .address {
+        display: block;
+        margin: -10px;
+    }
+
+    .section-main-title {
+        width: 100%;
+        height: 432px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        letter-spacing: 2%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .h1-about {
+        width: 100%;
+        height: 160px;
+    }
+
+    .button-about {
+        display: flex;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section .container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 70px;
+    }
+
+    .section-h3 {
+        height: 24px;
+    }
+
+    .section-text {
+        height: 72px;
+    }
+
+    .visually-hidden-icon {
+        display: flex;
+    }
+
+    .icon-svg {
+        display: none;
+    }
+
+    .ul-about {
+        height: 1224px;
+    }
+
+    .team-title {
+        margin-bottom: 30px;
+    }
+
+    .team-ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .team-div {
+        margin: 0 auto;
+    }
+
+    .portfolio-ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .portfolio-img {
+        max-width: 356px;
+        width: 100%;
+    }
+
+    .section-4-hover {
+        max-width: 356px;
+        width: 100%;
+    }
+
+    footer {
+        height: 456px;
+        border: 1px, solid, #2e2f42;
+    }
+
+    .footer-title{
+        position: relative;
+        left: 10px;
+    }
+
+    .footer-studio {
+        position: relative;
+        left: 10px;
+    }
+
+    .footer-div-icon {
+        position: relative;
+        left: 50px;
+    }
+
+    .footer-form {
+        position: relative;
+        top: 200px;
+        right: 470px;
+    }
+
+    .icon-send {
+        position: relative;
+        right: 40px;
+    }
+}

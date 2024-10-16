@@ -1,0 +1,159 @@
+@media screen and (max-width: 768px) {
+    header {
+        width: 100%;
+        height: 56px;
+    }
+
+    .header-about .container {
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+.title-about{
+    margin-top: 16px;
+}
+    .ul-about1,
+    .address-about {
+        display: none;
+    }
+
+    .section-main-title {
+        width: 100%;
+        height: 432px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+            letter-spacing: 0.02em;
+        /* Effective Solutions for Your Business */        
+
+    }
+
+    .h1-about {
+        width: 100%;
+        height: 160px;
+    
+
+    }
+
+    .button-about {
+        display: flex;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: center;
+    }
+.visually-hidden-icon{
+    display: flex;
+}
+.visually-hidden{
+    display: none;
+}
+.icon-svg{
+    display: none;
+}
+    .section .container .section-ul {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        gap: 70px;
+      
+    }
+
+    .section-h3 {
+        height: 24px;
+    }
+
+     .team-ul{
+    display: flex;
+    flex-direction: column;
+
+     }
+        .our-team {
+            margin-bottom: 30px;
+        }
+    .ul-about {
+        height: 2233px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .portfolio-ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .portfolio-img {
+        max-width: 288px;
+        width: 100%;
+    }
+
+    .section-4-hover {
+        max-width: 288px;
+        width: 100%;
+    }
+
+    .section-4-text {
+        max-width: 200px;
+        width: 100%;
+    }
+
+    footer {
+        height: 664px;
+        border: 1px, solid, #2e2f42;
+        padding: 50px;
+        margin: 0 auto;
+    }
+
+    .footer-form {
+        display: block;
+    }
+
+    .footer-title {
+        margin-left: 65px;
+    }
+
+    .footer-div-icon {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin: 72px 20px;
+    }
+
+    .footer-a {
+        width: 100%;
+        display: flex;
+        text-align: left;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .footer-e-mail {
+        height: 40px;
+    }
+
+    .button-footer {
+        left: 0px;
+        top: 40px;
+    }
+
+    .icon-send {
+        top: 10px;
+        right: -30px;
+    }
+
+    .footer-about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
